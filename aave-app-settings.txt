@@ -1,0 +1,4 @@
+localStorage.setItem('forkEnabled', 'true');
+localStorage.setItem('forkBaseChainId', 1);
+localStorage.setItem('forkNetworkId', 3030);
+localStorage.setItem("forkRPCUrl", "https://rpc.tenderly.co/fork/9fca2c66-91db-4a2d-952d-f9d957a998d1");
